@@ -1,0 +1,21 @@
+---
+title: "Saltwater Distillery"
+output:
+  html_document:
+    theme: cosmo
+---
+## Welcome to Saltwater Distillery
+
+Saltwater Distillery is a fictional small-batch coastal distillery inspired by
+ocean air, harbour life, and slow evenings on the shoreline. We craft
+sea-influenced gins, rums, and seasonal spirits that highlight local botanicals
+and maritime character.
+
+From our waterfront stillhouse to our dockside tasting room, Saltwater
+Distillery is designed for visitors who enjoy thoughtful drinks and a relaxed,
+modern coastal atmosphere.
+
+Use the navigation bar to learn about our story and production process, or
+explore our latest releases and collaborations with local businesses on the
+**Releases & Partnerships** page.
+

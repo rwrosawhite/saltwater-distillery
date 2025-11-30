@@ -1,0 +1,19 @@
+name: "saltwater-distillery"
+output_dir: "docs"
+
+navbar:
+  title: "Saltwater Distillery"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Our Story & Spirits"
+      href: about.html
+    - text: "Releases & Partnerships"
+      href: projects.html
+    # Optional team page for individuals; required for groups
+    # - text: "Team"
+    #   href: team.html
+
+output:
+  html_document:
+    theme: cosmo

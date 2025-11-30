@@ -1,0 +1,39 @@
+---
+title: "Our Story & Spirits"
+output:
+  html_document:
+    theme: cosmo
+---
+## Our Story
+
+Saltwater Distillery is a fictional craft distillery located on a rugged,
+wind-swept coastline. The concept focuses on small-batch spirits that balance
+clean, modern design with a strong sense of place.
+
+Our mission is to bottle the feeling of a clear coastal evening: calm, bright,
+and gently salted by the sea breeze.
+
+## How We Craft
+
+We imagine a production process built around:
+
+- Carefully sourced grains, molasses, and botanicals  
+- Copper pot stills designed for small batches  
+- Experimentation with coastal ingredients such as kelp, sea salt, and citrus  
+
+Each release is built to be approachable for casual drinkers but interesting for
+curious enthusiasts.
+
+## Tasting Room & Experiences
+
+The fictional Saltwater tasting room offers:
+
+- Guided spirit flights with tasting notes  
+- Distillery walkthroughs explaining the basic production steps  
+- Limited seasonal cocktails featuring our flagship gin and rum  
+
+## Who Saltwater Distillery Serves
+
+Saltwater Distillery is aimed at coastal visitors, local residents, and
+hospitality partners who want distinctive, story-driven spirits to feature in
+their bars, restaurants, or events.

@@ -1,0 +1,30 @@
+---
+title: "Releases & Partnerships"
+output:
+  html_document:
+    theme: cosmo
+---
+## Case Study 1: Harbour Fog Coastal Gin
+
+Harbour Fog is a fictional signature gin inspired by misty mornings on the
+pier. The spirit is built around juniper, lemon peel, kelp, and a light touch
+of sea salt to create a bright, savoury profile.
+
+**Key elements:**
+
+- Clear product story tied to place  
+- Focus on simple, memorable botanicals  
+- Label and copy designed for easy shelf recognition  
+
+## Case Study 2: Dockside Rum x Local Café Collaboration
+
+For this fictional collaboration, Saltwater Distillery partners with a nearby
+café to develop a small-batch spiced rum for weekend brunch service. The rum
+features vanilla, orange, and subtle coffee notes.
+
+**Key elements:**
+
+- Cross-promotion between local businesses  
+- Limited release concept to create excitement  
+- Flexible flavour profile suited to cocktails or sipping  
+
